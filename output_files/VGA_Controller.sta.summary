@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -8.463
+TNS   : -1856.445
+
+Type  : Slow 1100mV 85C Model Setup 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : -3.217
+TNS   : -32.198
+
+Type  : Slow 1100mV 85C Model Setup 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : -2.925
+TNS   : -30.642
+
+Type  : Slow 1100mV 85C Model Setup 'ps2clk'
+Slack : -1.272
+TNS   : -20.201
+
+Type  : Slow 1100mV 85C Model Hold 'ps2clk'
+Slack : 0.227
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : 0.651
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : 0.681
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.225
+TNS   : -333.260
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'ps2clk'
+Slack : -0.538
+TNS   : -25.204
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : -0.538
+TNS   : -12.901
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : -0.538
+TNS   : -12.803
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -8.360
+TNS   : -1832.335
+
+Type  : Slow 1100mV 0C Model Setup 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : -3.404
+TNS   : -33.619
+
+Type  : Slow 1100mV 0C Model Setup 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : -3.100
+TNS   : -32.168
+
+Type  : Slow 1100mV 0C Model Setup 'ps2clk'
+Slack : -1.295
+TNS   : -18.590
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'ps2clk'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : 0.634
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : 0.673
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.225
+TNS   : -338.120
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'ps2clk'
+Slack : -0.538
+TNS   : -24.049
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : -0.538
+TNS   : -12.788
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : -0.538
+TNS   : -12.687
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -4.353
+TNS   : -838.023
+
+Type  : Fast 1100mV 85C Model Setup 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : -1.466
+TNS   : -12.718
+
+Type  : Fast 1100mV 85C Model Setup 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : -1.277
+TNS   : -11.711
+
+Type  : Fast 1100mV 85C Model Setup 'ps2clk'
+Slack : 0.040
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -0.213
+TNS   : -1.306
+
+Type  : Fast 1100mV 85C Model Hold 'ps2clk'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -1.702
+TNS   : -97.074
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'ps2clk'
+Slack : -0.270
+TNS   : -8.337
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : 0.077
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : 0.107
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -3.793
+TNS   : -730.103
+
+Type  : Fast 1100mV 0C Model Setup 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : -1.438
+TNS   : -12.082
+
+Type  : Fast 1100mV 0C Model Setup 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : -1.268
+TNS   : -11.178
+
+Type  : Fast 1100mV 0C Model Setup 'ps2clk'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.386
+TNS   : -3.688
+
+Type  : Fast 1100mV 0C Model Hold 'ps2clk'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : 0.255
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -1.702
+TNS   : -108.316
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'ps2clk'
+Slack : -0.248
+TNS   : -7.684
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'keyboard:inst20|ps2controller:inst|inst19'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'igrica:inst8|keyboard:inst2|ps2controller:inst|inst19'
+Slack : 0.117
+TNS   : 0.000
+
+------------------------------------------------------------
